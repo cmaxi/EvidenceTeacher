@@ -1,0 +1,15 @@
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\bin\Release\EvidenceTeacher.exe.config
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\bin\Release\EvidenceTeacher.exe
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\bin\Release\EvidenceTeacher.pdb
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.csprojAssemblyReference.cache
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\MainWindow.g.cs
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\App.g.cs
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher_MarkupCompile.cache
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher_MarkupCompile.lref
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\MainWindow.baml
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.g.resources
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.Properties.Resources.resources
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.csproj.GenerateResource.cache
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.csproj.CoreCompileInputs.cache
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.exe
+C:\Users\jan\source\repos\EvidenceTeacher\EvidenceTeacher\obj\Release\EvidenceTeacher.pdb
